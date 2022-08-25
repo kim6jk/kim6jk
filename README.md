@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kim6jk
+- 👀 I’m interested in Scripting Languages
+- 🌱 I’m currently learning Scripting Languages
